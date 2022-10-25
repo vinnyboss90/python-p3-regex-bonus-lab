@@ -7,7 +7,6 @@ FINDALL_STRING = """
     It's such a lovely day today.
     Where'd all the time go?
     Some weather we're having today, huh?
-    No day but today.
     Tomorrow never knows!
     Maybe today's just not my day.
     It's clobbering time!
