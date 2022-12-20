@@ -1,4 +1,4 @@
-# RegEx Lab
+# BONUS: RegEx Matching Lab
 
 ## Learning Goals
 

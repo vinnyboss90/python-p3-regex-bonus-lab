@@ -5,9 +5,10 @@ name = "pypi"
 
 [packages]
 pytest = "7.1.2"
+importlib-resources = "5.10.0"
 ipdb = "0.13.9"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8.13"
+python_full_version = "3.8.13"
